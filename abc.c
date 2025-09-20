@@ -2,4 +2,5 @@
 int mmain()
 {
     prinf("hello gthubb");
+    prinf("hello dinuka");
 }
